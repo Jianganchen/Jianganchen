@@ -1,7 +1,6 @@
 ### Greetings, Philip (Jiangan) here, nice to meet you!
 
-- ⚡ I’m currently building my own AI startup
-- 🔭 I’m also working as a solution engineer at [codepay](https://www.codepay.me/)
+- 🔭 I’m working as a solution engineer at [codepay](https://www.codepay.me/)
 - 💬 Check out my [portfolio](https://philip-chen.com)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/philip-chen-jiangan/)
 
